@@ -18,6 +18,10 @@ Clone the Wazuh Docker repository to your local machine:
 ```bash
 git clone https://github.com/zoecyber001/wazuh-docker-single-node.git 
 ```
+Then go to the directory:
+```bash
+cd wazuh-docker-single-node
+```
 
 Navigate to the `single-node` directory:
 
